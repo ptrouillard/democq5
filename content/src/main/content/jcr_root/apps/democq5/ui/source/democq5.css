@@ -1,0 +1,21 @@
+
+.democq5-container {
+    margin: 0 auto;
+    width: 600px;
+    background-color: white;
+}
+
+.democq5-head {
+    width: 100%;
+    background-color: black;
+    color: #eee;
+}
+
+.democq5-foot {
+    width: 100%;
+    background-color: #eee;
+}
+
+.democq5-content {
+    margin: 50px 20px 100px 20px;
+}
