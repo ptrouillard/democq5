@@ -1,4 +1,4 @@
-package decafeine.demo.cq5.impl.filters;
+package decafeine.demo.cq5.democq5.impl.filters;
 
 import java.io.IOException;
 

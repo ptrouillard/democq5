@@ -3,9 +3,9 @@
 <cq:defineObjects/>
 <html>
 	<body>
-        <div class="democq5-container">
-            <div class="democq5-head">
+        <div class="container">
+            <div class="header">
                 Contact
             </div>
-            <div class="democq5-content">
+            <div class="container">
                 <!-- content -->

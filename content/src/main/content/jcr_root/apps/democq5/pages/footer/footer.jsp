@@ -4,7 +4,7 @@
 
             <!-- end of content -->
             </div>
-            <div class="democq5-foot">
+            <div class="container">
                 Legal mentions and so on...
             </div>
         </div>

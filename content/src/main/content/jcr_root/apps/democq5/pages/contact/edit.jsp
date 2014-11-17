@@ -2,7 +2,8 @@
 <%@include file="/libs/foundation/global.jsp"%>
 <cq:defineObjects/>
 
-<cq:includeClientLib categories="democq5.style" />
+<cq:includeClientLib categories="bootstrap.style" />
+
 <cq:include path="header" resourceType="democq5/pages/header"/>
 
 <form action="/content/contacts/*" method="POST">
