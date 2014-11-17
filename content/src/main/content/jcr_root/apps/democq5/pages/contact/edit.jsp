@@ -7,6 +7,7 @@
 <cq:include path="header" resourceType="democq5/pages/header"/>
 
 <form action="/content/contacts/*" method="POST">
+<input type="hidden" name=":redirect" value="/apps/democq5/component/contact.list?message=contact_created"/>
     <table>
         <tbody>
             <tr>

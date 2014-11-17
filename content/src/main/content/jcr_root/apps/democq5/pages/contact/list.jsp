@@ -6,6 +6,10 @@
 
 <cq:include path="header" resourceType="democq5/pages/header"/>
 
+<% if (request.getParameter("message") != null) { %>
+<cq:include script="information.jsp" />
+<% } %>
+
 <%
     PeopleService service = sling.getService(PeopleService.class);
     List<PeopleDTO> peoples = null;
